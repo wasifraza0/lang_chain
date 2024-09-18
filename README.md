@@ -1,12 +1,14 @@
-QA System with LlamaIndex and Google Gemini:
+# QA System with LlamaIndex and Google Gemini:
 
 
-Overview
+# Overview
 This repository contains a QA (Question Answering) system built using LlamaIndex and Google Gemini. The system leverages LlamaIndex for indexing and querying, while Google Gemini (including Gemini Embedding and GeminiPro) is utilized for embeddings and advanced processing.
 
 Components
-LlamaIndex: A tool used for efficient indexing and querying of text data.
-Google Gemini: A suite of tools for natural language processing, including:
+LlamaIndex: A tool used for efficient indexing and querying of text data./n
+
+Google Gemini: A suite of tools for natural language processing, including:/n
+
 Gemini Embedding: Provides high-quality embeddings for text data.
 GeminiPro: Advanced processing capabilities for sophisticated QA tasks.
 Features
