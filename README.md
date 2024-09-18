@@ -22,9 +22,4 @@ For more details on how to use Chainlit in this project, refer to the app.py fil
 
 
 
-GeminiPro: Advanced processing capabilities for sophisticated QA tasks.
-Features
 
-Efficient Indexing: LlamaIndex enables fast and effective indexing of large datasets.
-High-Quality Embeddings: Google Gemini Embedding offers powerful text representations.
-Advanced Processing: GeminiPro enhances the QA system with advanced NLP capabilities.
